@@ -6,8 +6,12 @@ print(6 and 5)
 print(not 6)
 # if bool is used then returns the boolean value of the given value
 print(bool("hi"))
+
+# ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #  ordinals
 print(ord("a"))
 print(ord("A"))
+
 # characters
 print(chr(67))
